@@ -24,7 +24,7 @@
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
 - 👯 I’m looking to collaborate on anything related to ML, DL projects.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
-- 📫 How to reach me:  [Email](mailto:rkishan@usc.edu)
+- 📫 How to reach me:  [Email](mailto:rkishan03@gmail.com)
 - 😄 Pronouns: He/Him
 
 
